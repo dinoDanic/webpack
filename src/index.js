@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const test = {
   dva: "2",
   tri: "3",
